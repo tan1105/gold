@@ -1,0 +1,104 @@
+header img{
+    max-width: 45%;
+    margin-top: 6%;
+    margin-left: 20%;
+}
+header{
+    background-image: url(https://i.pinimg.com/originals/88/33/be/8833be476d20a4943b4fe1cb1a07e652.jpg);
+}
+.search{
+    width: 70%;
+    margin-top: 0%;
+}
+
+.text-header a{
+   font-size: 17px;
+   text-decoration: none;
+    color: rgb(8, 9, 9);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.ho-tro{
+    padding-right: 2%;
+}
+.gio-hang{
+    margin-right: 1%;
+}
+
+.trang-thai{
+    margin-right: 850px;
+    margin-top: 4px;
+
+}
+.thanh-trang-thai .trang-thai li{
+    list-style: none;
+  display: inline;
+}
+.trang-thai a{
+   padding-left: 7px;
+}
+.login a{
+  padding-right: 10px;
+}
+.thanh-trang-thai .login li{
+    list-style: none;
+    margin-top: -3%;
+
+}
+.cart{
+    margin-top: 0%;
+}
+nav{
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.slide img{
+    max-width: 100%;
+
+}
+.review-box {
+    display: flex;
+    /* overflow: hidden; */
+    transition: transform 0.3s linear;
+}
+.btnRight{
+    margin-left: 90%;
+}
+
+.full-body{
+    border: 2px solid rgb(251, 251, 247);
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgb(215, 209, 209);
+    text-align: center;
+   display: inline-block;
+   width: 80%;
+   margin-left: 43px;
+   margin-top: 1%;
+}
+.panel-img img{
+    max-width: 150px;
+}
+.anh-hay-de-ts-len-tieng-ve-ban img{
+    max-width: 100%;
+}
+.full-body .panel-title a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(44, 127, 127);
+}
+.prices{
+    color: red;
+}
+
+.title-sp{
+    margin-top: 2%;
+}
+
+.tong-newstyle .hinh-anh{
+    text-align: center;
+    margin-top: 1%;
+}
+
+
+
